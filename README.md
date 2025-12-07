@@ -2,5 +2,7 @@
 
 ## CMD
 # status
-` docker -v `
-` docker info `
+```bash
+docker -v 
+docker info
+```
