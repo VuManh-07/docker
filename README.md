@@ -1,8 +1,9 @@
 ### Learn docker
 
 ## CMD
-# status
 ```bash
-docker -v 
+# version
+docker -v
+# info: container, image, network..
 docker info
 ```
